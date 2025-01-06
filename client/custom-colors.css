@@ -1,0 +1,63 @@
+.bg-custom-purple {
+  background-color: #6f42c1;
+  color: white;
+}
+
+.border-custom-purple {
+  border-color: #6f42c1;
+}
+
+.btn-custom-purple {
+  background-color: #6f42c1;
+  color: white;
+}
+
+.btn-custom-purple:hover {
+  background-color: #5a32a3;
+  color: white;
+  border-color: #5a32a3;
+}
+
+.btn-outline-custom-purple {
+  border-color: #6f42c1;
+  color: #6f42c1;
+  background-color: transparent;
+}
+
+.btn-outline-custom-purple:hover {
+  background-color: #6f42c1;
+  color: white;
+  border-color: #5a32a3;
+}
+
+.btn-custom-cyan {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.btn-custom-cyan:hover {
+  background-color: #138496;
+  color: white;
+  border-color: #138496;
+}
+
+.btn-outline-custom-cyan {
+  border-color: #17a2b8;
+  color: #17a2b8;
+  background-color: transparent;
+}
+
+.btn-outline-custom-cyan:hover {
+  background-color: #17a2b8;
+  color: white;
+  border-color: #138496;
+}
+
+.bg-custom-cyan {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.border-custom-cyan {
+  border-color: #17a2b8;
+}
